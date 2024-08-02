@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DjangoAPI/DjangoAPI/__pycache__
+/DjangoAPI/users/migrations/__pycache__
+/DjangoAPI/users/__pycache__
